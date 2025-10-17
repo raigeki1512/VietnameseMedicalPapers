@@ -1,0 +1,5 @@
+{
+  "name": "Live Data Search & Sort",
+  "description": "A sophisticated React application that fetches data from a public Google Sheet, and provides live search, sorting, and pagination features in a beautifully designed table.",
+  "requestFramePermissions": []
+}
